@@ -34,7 +34,7 @@
     font-size: 14px;
     font-weight: 400;
     padding-left: 4em;
-    background: url("../assets/img/email.svg") no-repeat;
+    background: url("./assets/img/Email.svg") no-repeat;
     background-position: 1em;
     color: var(--azul-escuro);
 }
