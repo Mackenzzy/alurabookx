@@ -43,38 +43,6 @@
 }
     
 
-/* .banner2{
-    background: var(--azul-degrade);
-    color: var(--branco);
-    text-align: center;
-    padding: 2.5em 2em;
-}
-.banner2__titulo{
-    font-size: 16px;
-    font-weight: 300;
-}
-.banner2__botoes{
-    margin-top: 50px;
-    margin-bottom: 25px;
-    display: flex;
-    flex-wrap: wrap;
-
-}
-.banner2__lista{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 4em 1em;
-    align-items: center;
-}
-.banner2__botoes__item{
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: 700;
-    color: var(--branco);
-    background-color: var(--laranja);
-    padding: 21px 16px;
-} */
 @media screen and (min-width: 1728px) {
     .banner__pesquisa{
         width: 35%;
