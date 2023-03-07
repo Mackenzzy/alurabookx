@@ -37,7 +37,7 @@
 }
 @media screen and (min-width:1728px) {
     .topicos{
-        padding: 3em 25vw;
+        padding: 3em 20vw;
     }
     .topicos__links{
         display: inline-block;
